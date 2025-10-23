@@ -1,0 +1,11 @@
+a=10
+b=0b1111
+c=0o17
+d=0xa
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(bin(15))
+print(oct(15))
+print(hex(15))

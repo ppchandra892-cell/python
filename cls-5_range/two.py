@@ -1,0 +1,6 @@
+r=range(10)
+r1=range(5,40)
+r2=range(1,100,6)
+print(r)     #range(0, 10)
+print(r1)    #range(5, 40)
+print(r2)    #range(1,100,6)
