@@ -1,0 +1,72 @@
+""" enames=[{"id":1,"ename":"Mickie","email":"mbixley0@theglobeandmail.com","gender":"Genderfluid"},
+{"id":2,"ename":"Lona","email":"ldurnin1@g.co","gender":"Female"},
+{"id":3,"ename":"Fidel","email":"ftween2@bing.com","gender":"Genderfluid"},
+{"id":4,"ename":"Jesse","email":"jmccarver3@indiatimes.com","gender":"Male"},
+{"id":5,"ename":"Adams","email":"acrossdale4@bandcamp.com","gender":"Male"},
+{"id":6,"ename":"Jarret","email":"jovendon5@vistaprint.com","gender":"Male"},
+{"id":7,"ename":"Jenine","email":"jbastock6@google.com.br","gender":"Female"},
+{"id":8,"ename":"Benoite","email":"bribbens7@blogtalkradio.com","gender":"Female"},
+{"id":9,"ename":"Gabie","email":"gloftus8@bbc.co.uk","gender":"Male"},
+{"id":10,"ename":"Andy","email":"amckeurton9@1und1.de","gender":"Polygender"},
+{"id":11,"ename":"Maddy","email":"moventona@google.com","gender":"Female"},
+{"id":12,"ename":"Inness","email":"iweighellb@java.com","gender":"Male"},
+{"id":13,"ename":"Luis","email":"lwitcombc@hostgator.com","gender":"Male"},
+{"id":14,"ename":"Fanchon","email":"flantiffed@hibu.com","gender":"Female"},
+{"id":15,"ename":"Aguste","email":"aheaslipe@google.com.br","gender":"Male"},
+{"id":16,"ename":"Rickey","email":"rhearonsf@sourceforge.net","gender":"Polygender"},
+{"id":17,"ename":"Derk","email":"desilmong@nyu.edu","gender":"Male"},
+{"id":18,"ename":"Pammie","email":"pmacgilleh@spotify.com","gender":"Polygender"},
+{"id":19,"ename":"Cacilie","email":"carnotti@tinyurl.com","gender":"Female"},
+{"id":20,"ename":"Oran","email":"ofazackerleyj@tripadvisor.com","gender":"Male"},
+{"id":21,"ename":"Pablo","email":"pcicchillok@eepurl.com","gender":"Male"},
+{"id":22,"ename":"Claiborn","email":"cwalrondl@howstuffworks.com","gender":"Male"},
+{"id":23,"ename":"Harwell","email":"hzukiermanm@sciencedirect.com","gender":"Male"},
+{"id":24,"ename":"Darrick","email":"dallonbyn@1688.com","gender":"Genderfluid"},
+{"id":25,"ename":"Parke","email":"ppeaceo@microsoft.com","gender":"Male"},
+{"id":26,"ename":"Katerina","email":"kkopelmanp@miibeian.gov.cn","gender":"Female"},
+{"id":27,"ename":"Nikaniki","email":"ndemschkeq@google.cn","gender":"Female"},
+{"id":28,"ename":"Fredek","email":"fhannabussr@php.net","gender":"Male"},
+{"id":29,"ename":"Haydon","email":"hsuddabys@github.io","gender":"Male"},
+{"id":30,"ename":"Gaultiero","email":"gspillingt@aboutads.info","gender":"Male"},
+{"id":31,"ename":"Hort","email":"htidmanu@ovh.net","gender":"Male"},
+{"id":32,"ename":"Maura","email":"mchaudronv@narod.ru","gender":"Female"},
+{"id":33,"ename":"Prue","email":"pjacsonw@furl.net","gender":"Female"},
+{"id":34,"ename":"Say","email":"sgaughanx@cpanel.net","gender":"Male"},
+{"id":35,"ename":"Elsbeth","email":"egerbely@mlb.com","gender":"Female"},
+{"id":36,"ename":"Jolene","email":"jghilksz@yale.edu","gender":"Female"},
+{"id":37,"ename":"Germana","email":"gfedorski10@geocities.jp","gender":"Female"},
+{"id":38,"ename":"Filippo","email":"fcazereau11@eventbrite.com","gender":"Male"},
+{"id":39,"ename":"Abramo","email":"afenna12@gov.uk","gender":"Male"},
+{"id":40,"ename":"Abdel","email":"alarking13@ameblo.jp","gender":"Male"},
+{"id":41,"ename":"Tiffany","email":"tpee14@vkontakte.ru","gender":"Female"},
+{"id":42,"ename":"Murry","email":"mlambrecht15@purevolume.com","gender":"Male"},
+{"id":43,"ename":"Grazia","email":"gratnege16@rediff.com","gender":"Genderfluid"},
+{"id":44,"ename":"Alfy","email":"akinnard17@wordpress.com","gender":"Male"},
+{"id":45,"ename":"Weston","email":"wrainy18@123-reg.co.uk","gender":"Male"},
+{"id":46,"ename":"Jamil","email":"jfraulo19@myspace.com","gender":"Genderqueer"},
+{"id":47,"ename":"Perri","email":"pcatley1a@statcounter.com","gender":"Female"},
+{"id":48,"ename":"Isa","email":"iwanden1b@wufoo.com","gender":"Female"},
+{"id":49,"ename":"Ryann","email":"rnaire1c@ed.gov","gender":"Female"},
+{"id":50,"ename":"Yasmeen","email":"ymewe1d@dell.com","gender":"Non-binary"},
+{"id":51,"ename":"Clerissa","email":"cdignan1e@buzzfeed.com","gender":"Bigender"},
+{"id":52,"ename":"Bart","email":"bstellino1f@umn.edu","gender":"Male"},
+{"id":53,"ename":"Hildagard","email":"hferrelli1g@last.fm","gender":"Female"},
+{"id":54,"ename":"Arther","email":"avictor1h@clickbank.net","gender":"Genderqueer"},
+{"id":55,"ename":"Bailey","email":"bharcus1i@sciencedirect.com","gender":"Male"},
+{"id":56,"ename":"Lacey","email":"lbickerstaff1j@samsung.com","gender":"Female"},
+{"id":57,"ename":"Joice","email":"jincogna1k@constantcontact.com","gender":"Female"},
+{"id":58,"ename":"Birgitta","email":"balsford1l@theglobeandmail.com","gender":"Female"},
+{"id":59,"ename":"Bibbie","email":"baddey1m@flickr.com","gender":"Female"},
+{"id":60,"ename":"Tallou","email":"twitcherley1n@imgur.com","gender":"Female"}]
+for ename in enames:
+    print(ename) """
+
+enames=["da","adad","dss","wfw"]
+eids={101,102,103,104}
+numbers=range(100)
+""" for ename in enames:
+    print(ename) """
+i=0
+while i<=len(enames)-1:
+    print(enames[i])
+    i=i+1
