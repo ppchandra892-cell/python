@@ -3,4 +3,4 @@ import data
 print(data.eid) #101
 
 data.login()    #login sucess
-
+help(data)
