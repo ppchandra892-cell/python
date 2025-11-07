@@ -11,7 +11,7 @@ for emp in employees:
         male=male+1
     elif emp['gender']=="Female":
         female=female+1
-print("femaleemp",female)
+print("femaleemp",female['ename'])
 print("maleemp",male)
 
     
