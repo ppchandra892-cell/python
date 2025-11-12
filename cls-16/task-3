@@ -1,6 +1,6 @@
 #write py script read using .csv file
 #and print all users name
-import csv
+""" import csv
 fp=open('users.csv','r')
 csv_reader=csv.reader(fp)
 chandu=list(csv_reader)
@@ -8,4 +8,10 @@ print(csv_reader)#<_csv.reader object at 0x000001BDE5E70160>
 print(type(csv_reader))#<class '_csv.reader'>
 for user in chandu[1:]:
     print(user[1])
-    print(type(user))
+    print(type(user)) """
+import csv
+fp=open("users.csv",'r')
+csv_reader=csv.reader(fp)
+chandu=list(csv_reader)
+for user in chandu[1:]:
+    print(user[0])
